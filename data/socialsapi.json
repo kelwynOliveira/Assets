@@ -1,0 +1,14 @@
+[
+  {
+    "social": "LinkedIn",
+    "url": "https://linkedin.com/in/kelwynoliveira",
+    "imgSrc": "/courses/assets/social/LinkedIn.svg",
+    "imgAlt": "LinkedIn Logo"
+  },
+  {
+    "social": "GitHub",
+    "url": "https://github.com/kelwynOliveira",
+    "imgSrc": "/courses/assets/social/GitHub.svg",
+    "imgAlt": "GitHub Logo"
+  }
+]
