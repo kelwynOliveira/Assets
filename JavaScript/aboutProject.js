@@ -68,5 +68,7 @@ function aboutProject(project) {
     }
   }
 
-  fetchCourses("/courses/data/coursesProjectsapi.json");
+  fetchCourses(
+    "https://kelwynoliveira.github.io/Assets/data/coursesProjectsapi.json"
+  );
 }
